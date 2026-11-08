@@ -1,5 +1,3 @@
-# Awesome-XERO-Accounting-Integration
-
 # Awesome Xero Accounting Integration
 
 > A curated list of top Xero Accounting Integration platforms — both SaaS/Hosted commercial connectors and open-source tools, SDKs, and self-hosted alternatives for syncing financial data with Xero.  
